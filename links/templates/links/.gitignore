@@ -1,0 +1,17 @@
+# Ignore virtual environment
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Ignore database file
+db.sqlite3
+
+# Ignore system files
+.DS_Store
+*.log
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
