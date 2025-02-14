@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-speo!4s=3(z6n1kqp^h0nhdtg__q$&941j#z53j%%_*9-xf)2g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['link-shortner-bjof.onrender.com']
+# ALLOWED_HOSTS = ['link-shortner-bjof.onrender.com']
+
+ALLOWED_HOSTS = []
 
 
 # Application definition
